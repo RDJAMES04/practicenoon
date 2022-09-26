@@ -1,4 +1,6 @@
 {
     "name": "RD",
-    "age": 22
+    "age": "22",
+    "company" : "SiteMinder",
+    "position" : "Software Engineer"
 }
