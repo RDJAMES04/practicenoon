@@ -2,5 +2,6 @@
     "name": "RD",
     "age": "22",
     "company" : "SiteMinder",
-    "position" : "Software Engineer"
+    "position" : "Software Engineer",
+    "Favcolor": "Blue"
 }
