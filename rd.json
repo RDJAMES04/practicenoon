@@ -1,11 +1,12 @@
 {
     "name": "RD",
-    "age": "22",
+    "age": 22,
     "company" : "SiteMinder",
     "position" : "Software Engineer",
     "Favcolor": "Blue",
     "Hobbies": "Watching",
     "Course": "IT",
-    "Company": "Siteminder"
+    "Company": "Siteminder",
+    "salary": 1000
 
 }
